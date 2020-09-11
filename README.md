@@ -8,4 +8,4 @@ Try various custom CNNs (by subclassing the keras.layers.Layer() class)
 
 - ?
 
-inspired by [A. Geron's book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+parts of the repo are inspired by [A. Geron's book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
